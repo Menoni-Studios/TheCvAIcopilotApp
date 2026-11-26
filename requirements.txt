@@ -1,0 +1,41 @@
+1️⃣STRUCTURE:
+
+TheCvAIcopilotApp/
+
+│
+├── app/
+│   │
+│   ├── main.py
+│   │
+│   ├── services/
+│   │   ├── cv_parser.py
+│   │   ├── job_analyzer.py
+│   │   ├── ai_optimizer.py
+│   │
+│   ├── templates/
+│   │   └── index.html
+│   │
+│   ├── static/
+│   │   ├── style.css
+│   │   └── script.js
+│   │
+│   └── uploads/
+│
+├── database.db
+│
+├── requirements.txt
+│
+├── .env
+│
+└── README.md
+
+2️⃣REQUIREMENTS:
+
+fastapi
+uvicorn
+jinja2
+python-multipart
+openai
+PyPDF2
+python-docx
+python-dotenv

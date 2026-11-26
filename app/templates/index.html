@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CareerCopilot AI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<h1>CareerCopilot AI</h1>
+
+<form
+action="/analyze"
+method="post"
+enctype="multipart/form-data"
+>
+
+<label>Upload CV</label>
+
+<input
+type="file"
+name="cv_file"
+required
+>
+
+<br><br>
+
+<label>Job Description</label>
+
+<textarea
+name="job_description"
+rows="15"
+cols="80"
+></textarea>
+
+<br><br>
+
+<button type="submit">
+Analyze Match
+</button>
+
+</form>
+
+</body>
+
+</html>
