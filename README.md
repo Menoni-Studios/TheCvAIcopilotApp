@@ -2,7 +2,9 @@
 
 AI-powered CV optimization and job matching app built with Python, FastAPI, PostgreSQL, and AI.
 
-![](images/AIjob.jpg)
+<div align="center">
+  <img src="images/AIjob.jpg" alt="description" width="100%">
+</div>
 
 ## ☑️Overview
 
