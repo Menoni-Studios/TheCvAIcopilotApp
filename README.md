@@ -147,4 +147,4 @@ The platform helps users present their experience effectively without creating m
 
 ### Menoni-Studios
 
-Personal project focus on improve, handle job application, accuracy, efficienty and effectiveness in the procces using AI in a fast pace reality.
+Personal project focus on improve, handle job application, accuracy, efficiently and effectiveness in the process using AI in a fast pace reality. It's a working progress project, stay tune.    
